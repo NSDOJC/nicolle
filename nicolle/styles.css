@@ -1,0 +1,23 @@
+body{
+    color:aqua;
+    background:brown;
+}
+header {
+    border-bottom: solid 2px pink;
+    padding: 0px;
+    font-size: 32px;
+
+}
+section {
+    padding-bottom: 80px;
+    padding-top: 80px;
+    background: purple; 
+    display: flex;
+    justify-content: center; 
+}
+.chamada-texto {
+margin-right: 5%;
+} 
+h1 {
+    font-size: 20px; 
+}
